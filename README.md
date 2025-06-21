@@ -5,7 +5,7 @@ Technical documentation and research guides created through collaborative human-
 ## 📚 Current Research
 
 ### Development & AI Tools
-- **[Claude Code: Complete Guide & Best Practices](./claude-code/)** - Comprehensive analysis of Anthropic's terminal-based coding assistant
+- **[Claude Code: Complete Guide & Best Practices](./articles/claude-code.md)** - Comprehensive analysis of Anthropic's terminal-based coding assistant
 
 ## 🤝 Contributing
 
